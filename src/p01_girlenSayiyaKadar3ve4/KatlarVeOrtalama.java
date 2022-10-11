@@ -1,8 +1,8 @@
-package girlenSayiyaKadar3ve4;
+package p01_girlenSayiyaKadar3ve4;
 
 import java.util.Scanner;
 
-public class P01_katlarVeOrtalama {
+public class KatlarVeOrtalama {
     public static void main(String[] args) {
 
         /* Ödev
