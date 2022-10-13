@@ -24,9 +24,7 @@ public class UsluFor {
             System.out.println("1");
         } else {
             for (int i = 1; i <= us; i++) {
-                for (int j = sayi; j <= sayi; j++) {
                     sonuc *= sayi;
-                }
             }
             System.out.println(sonuc);
         }
