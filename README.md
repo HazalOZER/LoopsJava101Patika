@@ -1,2 +1,2 @@
 # LoopsJava101Patika
-Patika.dev Java 101 ders pratiği
+https://app.patika.dev Java 101 ders pratiği
